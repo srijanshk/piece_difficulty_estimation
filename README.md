@@ -1,6 +1,6 @@
 # Piece Difficulty Estimation Challenge
 
-### **Team Yoko Ono** : *Srijan Shakya*
+### **Team Yoko Ono** : *Srijan Shakya* *Sandesh Gurung*
 
 This repository contains the resources for the Piece Difficulty Estimation Challenge as part of the Musical Informatics WS24 course. The project involves predicting the difficulty of musical pieces using both baseline and improved models.
 
